@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathgoutam93
+- 👋 Hi, I’m Goutam 
 - 👀 I’m interested in web/native app development
 - 🌱 I’m currently learning web development
 - 📫 contact me: nathgoutam93@gmail.com 
