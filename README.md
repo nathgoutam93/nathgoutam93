@@ -14,7 +14,7 @@
 <h3 align="left">get in touch:</h3>
 <p align="left">
 <a href="https://twitter.com/nathgoutam93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathgoutam93" height="30" width="40" /></a>
-<a href="https://instagram.com/gautam_wings_of_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautam_wings_of_music" height="30" width="40" /></a>
+<a href="https://instagram.com/gautam__wings_of_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautam_wings_of_music" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
