@@ -7,9 +7,9 @@
     
   - 🌱 I’m currently learning **MERN stack**
 
-  - 👨‍💻 Portfolio [https://nathgoutam93.github.io/Portfolio/](https://nathgoutam93.github.io/Portfolio/)
+  - 👨‍💻 view my Portfolio [https://nathgoutam93.github.io/Portfolio/](https://nathgoutam93.github.io/Portfolio/)
 
-  - 📫 write me an email **nathgoutam93@gmail.com**
+  - 📫 write an email **nathgoutam93@gmail.com**
 
   <h3 align="left">get in touch:</h3>
   <p align="left">
