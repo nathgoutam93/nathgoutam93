@@ -5,7 +5,7 @@
   <img align="right" src="5484597-removebg-preview.png"/>
   <div align="left">
     
-  - 🌱 I’m currently learning **MERN stack**
+  - 🌱 I’m currently learning **PERN stack**
 
   - 👨‍💻 view my Portfolio [https://nathgoutam93.github.io/Portfolio/](https://nathgoutam93.github.io/Portfolio/)
 
