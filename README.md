@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Goutam</h1>
-<h3 align="left">I'm a Full-stack web & game developer from India</h3>
+<h3 align="left">A Full-stack Web & Game developer from India</h3>
 
 <div align="center">
   <img align="right" src="5484597-removebg-preview.png"/>
@@ -7,9 +7,9 @@
     
   - 🌱 I’m currently learning **PERN stack**
 
-  - 👨‍💻 view my Portfolio [https://nathgoutam93.github.io/Portfolio/](https://nathgoutam93.github.io/Portfolio/)
+  - 👨‍💻 Check out my Portfolio [https://nathgoutam93.github.io/Portfolio/](https://nathgoutam93.github.io/Portfolio/)
 
-  - 📫 write an email **nathgoutam93@gmail.com**
+  - 📫 Write an email **nathgoutam93@gmail.com**
 
   <h3 align="left">get in touch:</h3>
   <p align="left">
