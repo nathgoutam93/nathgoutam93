@@ -1,14 +1,14 @@
 <h1 align="left">Hey 👋, I'm Goutam</h1>
-<h3 align="left">A Full-stack Web developer and a hobbyist game developer from India</h3>
+<h3 align="left">A Full-stack Web developer and a hobbyist game maker</h3>
 
 <div align="center">
   <div align="left">
     
-  - 🌱 I’m currently learning **React**
+   🧘 I’m currently learning **React**
 
-  - featured project [Link-pile](https://linkpile-bffd7.web.app) and here's [my Linkpile](https://linkpile-bffd7.web.app/nathgoutam93)
+   🚀 featured project [Linkpile](https://linkpile-bffd7.web.app) and here's [my Linkpile](https://linkpile-bffd7.web.app/nathgoutam93)
 
-  - 📫 Write an email **nathgoutam93@gmail.com**
+   📫 Write an email **nathgoutam93@gmail.com**
 
   <h3 align="left">get in touch:</h3>
   <p align="left">
