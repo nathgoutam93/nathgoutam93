@@ -4,7 +4,7 @@
 <div align="center">
   <div align="left">
     
-   🧘 I’m currently learning **React**
+   🧘 I’m currently learning **React/Next**
 
    🚀 featured project [Linkpile](https://linkpile-bffd7.web.app) and here's [my Linkpile](https://linkpile-bffd7.web.app/nathgoutam93)
 
