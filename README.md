@@ -14,10 +14,14 @@
         <li>[Blogbuddy](https://blogbuddy.netlify.app/)</li>
       </ul>
 
-   📫 Write an email **nathgoutam93@gmail.com**
 
-  <h3 align="left">get in touch:</h3>
+  <h3 align="left">Get in touch:</h3>
+
   <p align="left">
+   📫 Write an email <a href="mailto:nathgoutam93@gmail.com">nathgoutam93@gmail.com</a>
+  </p>
+  <p align="left">
+    or DM on
   <a href="https://twitter.com/nathgoutam93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathgoutam93" height="30" width="40" /></a>
   </p>
   
