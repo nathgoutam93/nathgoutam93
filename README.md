@@ -1,7 +1,7 @@
-# Hi there, I'm Goutam Nath 👋
+# Hi there, I'm Goutam 👋
 
-💻 **Developer | Problem Solver | Curious Mind**  
-I enjoy building things that are clean, efficient, and impactful. Whether it’s writing code, exploring new tech stacks, or solving tricky logic problems, I love diving deep and making things work better.
+💻 **Developer | Curious Mind**  
+I enjoy building things that are clean and efficient. Whether it’s writing code, exploring new tech stacks, or solving tricky logic problems, I love diving deep and making things work better.
 
 ---
 
@@ -28,5 +28,4 @@ I enjoy building things that are clean, efficient, and impactful. Whether it’s
 
 ## 📫 Let's Connect
 - **Mail** [nathgoutam93@gmail.com](mailto:nathgoutam93@gmail.com)
-- **GitHub:** [nathgoutam93](https://github.com/nathgoutam93)
 - **Portfolio:** [WIP](https://goutamnath.vercel.app/)
