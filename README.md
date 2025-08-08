@@ -1,27 +1,32 @@
-<h1 align="left">Hey 👋, I'm Goutam</h1>
-<h3 align="left">I Do Full-stack Web/App development and also make games in free time.</h3>
+# Hi there, I'm Goutam Nath 👋
 
-<div align="center">
-  <div align="left">
-    
-   🧘 current tech stack **ReactNative | Next.js | NestJs**
-   
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+💻 **Developer | Problem Solver | Curious Mind**  
+I enjoy building things that are clean, efficient, and impactful. Whether it’s writing code, exploring new tech stacks, or solving tricky logic problems, I love diving deep and making things work better.
 
-   🚀 featured projects (Too Old)
-      <ul>
-        <li>[Linkpile](https://linkpile-bffd7.web.app) and here's [my Linkpile](https://linkpile-bffd7.web.app/nathgoutam93)</li>
-        <li>[Blogbuddy](https://blogbuddy.netlify.app/)</li>
-      </ul>
+---
 
+## 🚀 About Me
+- 🖥️ Passionate about **software development** and **clean code**.
+- 🔍 Always exploring **new tools** and **emerging technologies**.
+- 🌱 Constantly learning and experimenting with new ideas.
+- 🛠️ Enjoy creating solutions that are both **practical** and **elegant**.
 
-  <h3 align="left">Get in touch:</h3>
+---
 
-  <p align="left">
-   📫 Write an email <a href="mailto:nathgoutam93@gmail.com">nathgoutam93@gmail.com</a>
-  </p>
-  <p align="left">
-    or DM on
-  <a href="https://twitter.com/nathgoutam93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathgoutam93" height="30" width="40" /></a>
-  </p>
-  
+## 🧰 Tech & Tools I Work With
+- **Languages:** JavaScript/Typescript, HTML, CSS
+- **Frameworks & Libraries:** React/ReactNative, NestJs, NextJs, Node.js 
+- **Tools & Platforms:** Git, GitHub, VS Code, Docker, Chrome DevTools
+- **Other Interests:** Game Devlopment, Musical Instruments
+
+---
+
+## 📊 GitHub Stats
+![Goutam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathgoutam93&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+- **Mail** [nathgoutam93@gmail.com](mailto:nathgoutam93@gmail.com)
+- **GitHub:** [nathgoutam93](https://github.com/nathgoutam93)
+- **Portfolio:** [WIP](https://goutamnath.vercel.app/)
