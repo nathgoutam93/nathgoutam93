@@ -1,14 +1,12 @@
 # Hi there, I'm Goutam 👋
 
 💻 **Developer | Curious Mind**  
-I enjoy building things that are clean and efficient. Whether it’s writing code, exploring new tech stacks, or solving tricky logic problems, I love diving deep and making things work better.
+I enjoy building things that are clean and efficient. I love diving deep and making things work better.
 
 ---
 
 ## 🚀 About Me
-- 🖥️ Passionate about **software development** and **clean code**.
-- 🔍 Always exploring **new tools** and **emerging technologies**.
-- 🌱 Constantly learning and experimenting with new ideas.
+- 🌱 Constantly learning and experimenting with ideas.
 - 🛠️ Enjoy creating solutions that are both **practical** and **elegant**.
 
 ---
