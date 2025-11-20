@@ -12,9 +12,9 @@ I enjoy building things that are clean and efficient. I love diving deep and mak
 ---
 
 ## 🧰 Tech & Tools I Work With
-- **Languages:** JavaScript/Typescript, HTML, CSS
+- **Languages:** JavaScript/Typescript, HTML, CSS, GO
 - **Frameworks & Libraries:** React/ReactNative, NestJs, NextJs, Node.js 
-- **Tools & Platforms:** Git, GitHub, VS Code, Docker, Chrome DevTools
+- **Tools & Platforms:** Git, Docker, GitHub, AWS
 - **Other Interests:** Game Devlopment, Musical Instruments
 
 ---
